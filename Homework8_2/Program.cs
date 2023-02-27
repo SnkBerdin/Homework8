@@ -58,7 +58,7 @@ namespace Homework8_2
                 Console.WriteLine($"Phone: {phone.Key} Name {phone.Value} ");
             }
             
-            SearchPhone(noteBook);
+            SearchPhone(noteBook);Console.ReadKey();
             
             
             
