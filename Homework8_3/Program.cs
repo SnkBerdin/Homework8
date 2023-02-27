@@ -36,6 +36,7 @@ namespace Homework8_3
                 
                 
             }
+            Console.ReadKey();
         }
     }
 }
