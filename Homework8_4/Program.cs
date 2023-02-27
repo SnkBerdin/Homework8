@@ -42,6 +42,7 @@ namespace Homework8_4
                 myPhones);
             Console.WriteLine(myPerson);
             myPerson.Save("_person.xml");
+            Console.ReadKey();
             
 
 
