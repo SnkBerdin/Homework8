@@ -1,0 +1,15 @@
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/bin/Debug/net7.0/Homework8_4
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/bin/Debug/net7.0/Homework8_4.deps.json
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/bin/Debug/net7.0/Homework8_4.runtimeconfig.json
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/bin/Debug/net7.0/Homework8_4.dll
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/bin/Debug/net7.0/Homework8_4.pdb
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/Homework8_4.csproj.AssemblyReference.cache
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/Homework8_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/Homework8_4.AssemblyInfoInputs.cache
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/Homework8_4.AssemblyInfo.cs
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/Homework8_4.csproj.CoreCompileInputs.cache
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/Homework8_4.dll
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/refint/Homework8_4.dll
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/Homework8_4.pdb
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/Homework8_4.genruntimeconfig.cache
+/Users/berdin.evg/RiderProjects/Homework8/Homework8_4/obj/Debug/net7.0/ref/Homework8_4.dll
