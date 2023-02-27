@@ -40,7 +40,7 @@ namespace Homework8_1
             Console.ReadKey();
             numbers.RemoveAll(num => (num > 25) && (num < 50));
             ViewList(numbers);
-            
+            Console.ReadKey();
 
 
 
